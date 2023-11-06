@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @backfirelabs
+- 👀 I’m interested in nextjs, JS, and html/css!
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: You can react me at https://discord.gg/firecord
